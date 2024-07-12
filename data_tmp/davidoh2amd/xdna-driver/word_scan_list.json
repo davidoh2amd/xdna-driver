@@ -1,0 +1,14 @@
+{
+    "allow_list" : [ 
+        "football", 
+        "baseball", 
+        "fooseball",
+        "fool" 
+    ],
+    "block_list" : [
+        "strix",
+        "phoenix",
+        "halo",
+        "soundwave"
+    ]
+}
